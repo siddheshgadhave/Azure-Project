@@ -1,0 +1,9 @@
+{
+	"name": "siddheshdfAzureProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d46db2cb-54a9-4bbe-a3a0-915cc073776d",
+		"tenantId": "db40265e-d0d6-4fb4-9376-c9c7c178b300"
+	}
+}
