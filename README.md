@@ -115,14 +115,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📧 Contact
-
-For questions or support, please contact [your-email@example.com](mailto:your-email@example.com) or open an issue on GitHub.
-
----
 
 **Last Updated:** May 6, 2026
